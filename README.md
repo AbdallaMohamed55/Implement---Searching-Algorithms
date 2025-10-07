@@ -27,7 +27,6 @@ There are two common searching methods:
 
 Searching algorithms are used in real-world applications like **databases, dictionaries, and file systems** for quick data retrieval.
 
-## Procedure 
 
 ## Procedure
 1. **Understand the Algorithm**  
